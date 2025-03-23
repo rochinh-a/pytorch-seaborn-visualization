@@ -67,11 +67,11 @@ Este arquivo contém todo o código necessário para realizar o estudo de classi
 
 ### Curva de Aprendizado
 
-![Curva de Aprendizado](images/curva_aprendizado.png)
+![Curva de Aprendizado](pytorch-seaborn-visualization/images/curva_aprendizado.png)
 
 ### Fronteira de Decisão 3D
 
-![Fronteira de Decisão 3D](images/fronteira_decisao_3d.png)
+![Fronteira de Decisão 3D](pytorch-seaborn-visualization/images/fronteira_decisao_3d.png)
 
 ## Contribuição
 
